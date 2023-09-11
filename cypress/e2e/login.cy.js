@@ -10,7 +10,7 @@ describe('Pagina home', function () {
     cy.contains('SIGN IN');
   })
 
-  it('Comprobando estado estado del API', function () {
+  it('Comprobando estado del API', function () {
     cy.get('#test-api-btn' ).click();        
     cy.contains("API is UP and runnig OK", {timeout: Cypress.env('timeout')});
   })
