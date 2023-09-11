@@ -1,13 +1,19 @@
 
 
 describe('Pagina home', function () {
+
+ 
 //TODO: Agregar logout
   beforeEach(() => {
     cy.visit(Cypress.env('site_url'))
   })
 
-  it('Carga pagina home', () => {
+  it('Carga pagina home ', () => {
+    cy.task('log', Cypress.env('site_url'));
+
     cy.contains('SIGN IN');
+    
+
   })
 
   it('Comprobando estado del API', function () {
