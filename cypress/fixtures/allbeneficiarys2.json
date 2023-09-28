@@ -1,0 +1,93 @@
+[
+    {
+        "isBlocked": false,
+        "_id": "61a5151e6732e5442b4c482c",
+        "deliveryCI": "92062743321",
+        "deliveryContact": "Darian",
+        "deliveryLastName": "Alvarez",
+        "deliverySecondLastName": "Tamayo",
+        "country_iso_code": "CU",
+        "country": "Cuba",
+        "deliveryArea": "Santiago de Cuba",
+        "deliveryZone": "Provincias",
+        "deliveryCity": "Songo La Maya",
+        "streetName": "Aguilera",
+        "houseNumber": "195",
+        "zipcode": "80100",
+        "email": "darian.alvarez.t@gmail.com",
+        "deliveryPhone": "52552615",
+        "createdAt": "2021-11-29T17:59:58.864Z",
+        "updatedAt": "2023-09-18T13:45:46.187Z",
+        "__v": 0,
+        "processed": true,
+        "beneficiaryFullName": "Darian Alvarez Tamayo",
+        "metadata": {},
+        "creditCards": [
+            {
+                "number": "9225959870121891",
+                "cardHolderName": "Darian Alvarez Tamayo",
+                "bankName": "Banco Metropolitano",
+                "currency": "USD"
+            },
+            {
+                "number": "9225069995117616",
+                "cardHolderName": "Darian Alvarez Tamayo",
+                "bankName": "Banco de Crédito y Comercio",
+                "currency": "USD"
+            },
+            {
+                "number": "9225959870123456",
+                "cardHolderName": "Darian Alvarez Tamayo",
+                "bankName": "Banco Metropolitano",
+                "currency": "USD"
+            },
+            {
+                "number": "9225959870128888",
+                "cardHolderName": "Darian Alvarez Tamayo",
+                "bankName": "Banco Metropolitano",
+                "currency": "USD"
+            }
+           
+        ]
+    },
+    {
+        "isBlocked": false,
+        "_id": "61cb9757dade96db7e490cb6",
+        "deliveryCI": "93040907782",
+        "deliveryContact": "christian",
+        "deliveryLastName": "fernandez",
+        "deliverySecondLastName": "perez",
+        "country_iso_code": "CU",
+        "country": "Cuba",
+        "deliveryArea": "La Habana",
+        "deliveryZone": "Habana",
+        "deliveryCity": "Boyeros",
+        "streetName": "edificio D-29 ",
+        "secondStreetName": "zona#8",
+        "houseNumber": "apartamento#19",
+        "zipcode": "12500",
+        "email": "christianfp1993@gmail.com",
+        "deliveryPhone": "52462517",
+        "createdAt": "2021-12-28T23:01:43.648Z",
+        "updatedAt": "2023-08-01T21:10:15.686Z",
+        "__v": 0,
+        "processed": true,
+        "beneficiaryFullName": "christian fernandez perez",
+        "metadata": {},
+        "creditCards": [
+            {
+                "number": "9225959875865500",
+                "cardHolderName": "christian fernandez perez",
+                "bankName": "Banco Metropolitano",
+                "currency": "USD"
+            },
+            {
+                "number": "9225959875865511",
+                "cardHolderName": "christian fernandez perez",
+                "bankName": "Banco Metropolitano",
+                "currency": "USD"
+            }
+        ]
+    }
+    
+]

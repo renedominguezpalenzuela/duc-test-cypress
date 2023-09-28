@@ -1,6 +1,6 @@
 
 
-describe('Pagina home', function () {
+describe.only('Pagina home', function () {
 
  
 //TODO: Agregar logout
@@ -10,10 +10,7 @@ describe('Pagina home', function () {
 
   it('Carga pagina home ', () => {
     cy.task('log', Cypress.env('site_url'));
-
-    cy.contains('SIGN IN');
-    
-
+    cy.contains('SIGN IN');   
   })
 
   it('Comprobando estado del API', function () {

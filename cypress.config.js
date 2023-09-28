@@ -15,8 +15,8 @@ module.exports = defineConfig({
   },
   env: {
     //
-    //"site_url": "http://localhost:3000",
-     "site_url": "https://renedominguezpalenzuela.github.io",    
+    "site_url": "http://localhost:3000",
+    // "site_url": "https://renedominguezpalenzuela.github.io",    
     "timeout": 60000
 
   },
